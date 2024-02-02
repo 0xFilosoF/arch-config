@@ -6,4 +6,4 @@
 
 ### Activate tpm
 
-- Ctrl+a => Shift+a
+- **Ctrl+a** => **Shift+a**
