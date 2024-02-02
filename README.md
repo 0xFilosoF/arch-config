@@ -4,6 +4,7 @@
 `git clone https://github.com/xxxFilosoFxxx/arch-config.git`
 
 Transfer the contents of the folders to the appropriate configurations.
+
 Install some extensions.
 
 ### Extensions:

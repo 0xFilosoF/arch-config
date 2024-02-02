@@ -8,8 +8,8 @@
 
 ### Theme
 
-Default: Papirus-Dark
+Default: **Papirus-Dark**
 
 ### Shell
 
-Default: Matcha-dark-azul
+Default: **Matcha-dark-azul**
