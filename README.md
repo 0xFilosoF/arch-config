@@ -1,7 +1,9 @@
 # Config file for a freshly installed OS
 
 ### Used
-`git clone https://github.com/xxxFilosoFxxx/arch-config.git`
+```bash
+git clone https://github.com/xxxFilosoFxxx/arch-config.git
+```
 
 Transfer the contents of the folders to the appropriate configurations.
 
@@ -23,4 +25,8 @@ Install some extensions.
 **If you're used to it:**
 - [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/)
 - [Hide Activities Button](https://extensions.gnome.org/extension/744/hide-activities-button/)
+
+### Programs
+
+- ...
 

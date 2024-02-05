@@ -1,5 +1,11 @@
 # Theme Usage
 
+### Text
+
+- inteface: **Noto Sans Regular**
+- doc: **Sans Regular**
+- mono: **Hack Regular**
+
 ### Cursors
 
 **Nordzy-cursors**

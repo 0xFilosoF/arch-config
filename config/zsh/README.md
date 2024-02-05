@@ -1,14 +1,27 @@
 # ZSH Usage
 
-### Load zgenom
+### Install ZSH
 
-`git clone https://github.com/jandamm/zgenom.git "${HOME}/.zgenom"`
-
-### Edit your .zshrc file to load zgenom
-
-```
-# load zgenom
-source "${HOME}/.zgenom/zgenom.zsh"
+```bash
+sudo pacman -S zsh
+chsh -s $(which zsh)
 ```
 
-# Continue for Arch...
+### Nerd fonts (example: Jet Brains Mono)
+
+- URL `https://www.nerdfonts.com/font-downloads`
+- Install manual `https://ostechnix.com/install-nerd-fonts-to-add-glyphs-in-your-code-on-linux/`
+
+### Install Antigen
+
+- ``` curl -L git.io/antigen > antigen.zsh ```
+- Copy .zshrc
+- Settings Powerlevel10k
+
+### Plugins
+
+- zsh-autosuggestions
+- fzf-zsh-plugin
+- zsh-z
+- git
+- zsh-syntax-highlighting
