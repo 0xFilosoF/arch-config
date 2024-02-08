@@ -28,5 +28,39 @@ Install some extensions.
 
 ### Programs
 
-- ...
+- **Desktop applications**
+	* Firefox
+	* Chromium
+	* Double Commander
+	* Bleach Bit
+	* Media VLC
+	* OBS Studio
+	* LibreOffice
+
+- **Development**
+	* Alacritty
+	* Jetbraind (PyCharm, WebStorm, GoLand, DataGrip)
+	* VS Code
+	* Termius
+	* CMake
+	* Postman
+	
+- **Console**
+	* Tmux
+	* Yay
+	* Conda (Anaconda3)
+	* Python3
+	* Node + Npm
+	* Nvm
+	* Go
+	* Rust (Cargo)
+	* Lazygit
+	* Lazydocker
+
+- **Other**
+	* Notion
+	* VeraCrypt/TrueCrypt
+	* TimeShift
+	* VMware Workstation
+	* Solaar + Logiops
 

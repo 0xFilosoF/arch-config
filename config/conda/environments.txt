@@ -1,2 +1,2 @@
-/home/filosof/anaconda3
-/home/filosof/anaconda3/envs/base-3.10
+$HOME/anaconda3
+$HOME/anaconda3/envs/base-3.10
