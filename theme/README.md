@@ -12,10 +12,14 @@
 - URL `https://www.gnome-look.org/p/1571937`
 - git `https://github.com/alvatip/Nordzy-cursors` 
 
-### Theme
+### Icons
 
-Default: **Papirus-Dark**
+Default: **Tela-icon-theme**
 
-### Shell
+Other: **Papirus-Dark**
 
-Default: **Matcha-dark-azul**
+### Theme (Shell)
+
+Default: **Orchis gtk theme**
+
+Other: **Matcha-dark-azul**, **Sweet - New Flavor**
