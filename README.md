@@ -54,6 +54,7 @@ Install some extensions.
 	* Nvm
 	* Go
 	* Rust (Cargo)
+	* forge (foundry-rs)
 	* Lazygit
 	* Lazydocker
 
