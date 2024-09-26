@@ -2,7 +2,7 @@
 
 ### Text
 
-- inteface: **Noto Sans Regular**
+- interface: **Noto Sans Regular**
 - doc: **Sans Regular**
 - mono: **Hack Regular**
 

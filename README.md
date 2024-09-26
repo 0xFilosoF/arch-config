@@ -2,7 +2,7 @@
 
 ### Used
 ```bash
-git clone https://github.com/xxxFilosoFxxx/arch-config.git
+git clone https://github.com/0xFilosoF/arch-config.git
 ```
 
 Transfer the contents of the folders to the appropriate configurations.
@@ -39,7 +39,7 @@ Install some extensions.
 
 - **Development**
 	* Alacritty
-	* Jetbraind (PyCharm, WebStorm, GoLand, DataGrip)
+	* DataGrip (TablePlus)
 	* VS Code
 	* Termius
 	* CMake
@@ -47,6 +47,7 @@ Install some extensions.
 	
 - **Console**
 	* Tmux
+	* Neovim
 	* Yay
 	* Conda (Anaconda3)
 	* Python3

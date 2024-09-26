@@ -28,6 +28,9 @@ antigen theme romkatv/powerlevel10k
 # Tell Antigen that you're done
 antigen apply
 
+alias ls="eza -l --icons"
+export EDITOR=nvim
+
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
 __conda_setup="$('$HOME/anaconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
